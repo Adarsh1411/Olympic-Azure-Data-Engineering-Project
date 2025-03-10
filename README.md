@@ -7,10 +7,15 @@ This project is designed to process and analyze datasets related to athletes, co
 ## Architecture Overview
 
 The architecture follows a structured approach using Azure services:
+
 Storage Account: Stores raw and transformed data.
+
 Azure Data Factory: Extracts data from a GitHub repository and loads it into Azure Blob Storage.
+
 Azure Databricks: Performs transformations using PySpark.
+
 Azure Synapse Analytics: Integrates transformed data and creates structured tables.
+
 Power BI: Builds dashboards for data visualization.
 
 ## Azure Services Used
