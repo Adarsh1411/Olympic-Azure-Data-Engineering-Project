@@ -4,7 +4,9 @@
 
 This project is designed to process and analyze datasets related to athletes, coaches, entries by gender, medals, and teams. The data is stored in CSV format and ingested, transformed, and analyzed using various Azure services. The final processed data is visualized in Power BI dashboards to derive insights.
 
-## Architecture Overview
+## Architecture Overview 
+
+![Project Architecture](Architecture.jpg)
 
 The architecture follows a structured approach using Azure services:
 
